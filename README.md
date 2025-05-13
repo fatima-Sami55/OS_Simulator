@@ -16,7 +16,6 @@ The **Operating System Simulator** 🧠 is a terminal-based simulation of an OS,
 *   **🚨 Interrupt Handling**: Pause/minimize tasks via simulated interrupts.
 *   **🧩 Scheduling**: Uses semaphores, mutual exclusion, and condition variables.
 *   **💾 Data Storage**: Simulated hard drive stores app data.
-*   **🖼️ Graphical Interface (Optional)**: Desktop-like icons for visual interaction.
 
 📋 Requirements
 ---------------
